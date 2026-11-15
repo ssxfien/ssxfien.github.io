@@ -1,3 +1,21 @@
+Package: com.ethxnn88.visibleisland
+Name: VisibleIsland
+Description: Enable and fix Dynamic Island on older devices.
+Maintainer: ethxnn88
+Author: ethxnn88
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Architecture: iphoneos-arm64
+Version: 2.0
+Installed-Size: 360
+Depiction: https://ssxfien.github.io/depictions/com.ethxnn88.visibleisland.html
+SileoDepiction: https://ssxfien.github.io/depictions/com.ethxnn88.visibleisland.json
+Filename: debs/com.ethxnn88.visibleisland_2.0_iphoneos-arm64.deb
+Size: 28282
+MD5sum: b0690de4c58d34b175ed70efadc65121
+SHA1: dc50692a082f003414bb9b5a42410de31becb11b
+SHA256: d464b0e231bcfa0ccbf1e6aa9a5ed87340227c9eb79b253cbbb2d537a7c99bd0
+
 Package: com.ssxfien.limelightreborn
 Name: Limelight Reborn
 Version: 1.1
