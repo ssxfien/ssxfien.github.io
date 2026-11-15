@@ -1,0 +1,14 @@
+Package: com.ssxfien.limelightreborn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ssxfien
+Filename: debs/com.ssxfien.limelightreborn_1.0_iphoneos-arm64.deb
+Size: 6628232
+MD5sum: 241dc555f6a77e3cb75926dd2f09c836
+SHA1: 4b22bd3c01ac844079a82875339e7177cda3a32b
+SHA256: d8c6fec6f0e445b733bcf547c120a9f1a03830af78f54d4ec6cefabae901744a
+Section: Themes
+Description: A custom neon outline theme pack.
+Author: ssxfien
+Name: Limelight Reborn
+
