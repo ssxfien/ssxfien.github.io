@@ -13,3 +13,21 @@ Size: 6628192
 MD5sum: c1671f89053c8f71031e56f9113cae3c
 SHA1: 284732bd4e8fce439bb292b6801c3544b63ecdb1
 SHA256: edd491f1d3928d4b733c45cb1cb9510cb6a9b21147c36815137cc8e638e328a1
+
+Package: com.ssxfien.romanpadreborn
+Name: RomanPad Reborn
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Description: Roman numerals on every numeric keypad, system-wide
+Maintainer: ssxfien
+Author: ssxfien
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Installed-Size: 344
+Depiction: https://ssxfien.github.io/depictions/com.ssxfien.romanpadreborn.html
+SileoDepiction: https://ssxfien.github.io/depictions/com.ssxfien.romanpadreborn.json
+Filename: debs/com.ssxfien.romanpadreborn_2.0.0_iphoneos-arm64.deb
+Size: 8966
+MD5sum: 214b26bcc6b40ed5cfc8a417525404df
+SHA1: 95d69c9c91188f23319a7bb73f0b0f642333f96d
+SHA256: 6b8d20000df0bf8836cf3b2fa4194633ae617eb3a068c03eee5c5e369716ca47
