@@ -6,3 +6,8 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: da fckin repo
+SHA256:
+ e450a3c3375a45bb05aff3b6d172310c706eca68acc99dc84dc69b85d9a9aa59 609 Packages
+ 7d6941c075ed4f3fe62f2b219c5d921e39268aab9f8cd8e67b2e9d4f23c6a534 405 Packages.bz2
+ aedf1ca0a59a24b27b1863b01e3bfadabdc9acb8e2351f8e829ef3b0c8cb1402 357 Packages.gz
+ 9ab409799b0368de4d1e25bf26331c9c866538478724007ea66294af22c46af2 428 Packages.xz
