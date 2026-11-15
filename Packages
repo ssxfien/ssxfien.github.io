@@ -13,20 +13,3 @@ Size: 6628192
 MD5sum: c1671f89053c8f71031e56f9113cae3c
 SHA1: 284732bd4e8fce439bb292b6801c3544b63ecdb1
 SHA256: edd491f1d3928d4b733c45cb1cb9510cb6a9b21147c36815137cc8e638e328a1
-
-Package: xyz.cypwn.blow
-Maintainer: CyPwn
-Depiction: https://repo.cypwn.xyz/depiction/1985
-SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1985
-Version: 1.0.4
-Section: Themes
-Architecture: iphoneos-arm64
-Name: Blow
-Author: CyPwn
-Description: 100% pure white icons. 5,000+
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/blow.png
-Filename: debs/xyz.cypwn.blow_1.0.4_iphoneos-arm64.deb
-Size: 10978446
-MD5sum: 88e0e8cc83cee5ce0e9d7454c3493180
-SHA1: e303d3108eb376764a098c6be1141df0cf34e0e8
-SHA256: d0271cb40d52b3f8f04824dfee589572fde677b2cd90e3d78db0be73898a3d72
