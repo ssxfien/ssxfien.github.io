@@ -13,3 +13,21 @@ Size: 6628192
 MD5sum: c1671f89053c8f71031e56f9113cae3c
 SHA1: 284732bd4e8fce439bb292b6801c3544b63ecdb1
 SHA256: edd491f1d3928d4b733c45cb1cb9510cb6a9b21147c36815137cc8e638e328a1
+
+Package: com.yourname.romanpad
+Name: RomanPad
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Description: Roman numerals on the passcode and dialer keypads
+Maintainer: yourname
+Author: yourname
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 348
+Depiction: https://ssxfien.github.io/depictions/com.yourname.romanpad.html
+SileoDepiction: https://ssxfien.github.io/depictions/com.yourname.romanpad.json
+Filename: debs/com.ssxfien.romanpad_1.0.0_iphoneos-arm64.deb
+Size: 10072
+MD5sum: 46bacf3daa3bd40b82b78046f90c5b16
+SHA1: 72ce55f4b33119ccd6ae9ded7f8c3e143f781ec9
+SHA256: f742beccee0b8a5547fa7df7e7d04817e05126ff2909a476310c8ec132689242
