@@ -1,3 +1,22 @@
+Package: com.dvntm.cc18
+Name: CC18
+Description: Round CC modules replication, like in iOS 18
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Icon: https://raw.githubusercontent.com/dayanch96/CC18/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/CC18/main/Sileo/depiction.json
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 152
+Depiction: https://ssxfien.github.io/depictions/com.dvntm.cc18.html
+Filename: debs/com.dvntm.cc18_0.0.3_iphoneos-arm64.deb
+Size: 4494
+MD5sum: 61c606586a407d92d328fdca914676c5
+SHA1: a0c862e7c99d82e1d8d9083ca1fc2fb803f925c0
+SHA256: 67c03afc0a875f2eb3685e70b7fe54cb6dabdbd2813201693ddfef7ab88bcc67
+
 Package: com.ssxfien.limelightreborn
 Name: Limelight Reborn
 Version: 2.1
