@@ -16,3 +16,20 @@ Size: 4494
 MD5sum: 61c606586a407d92d328fdca914676c5
 SHA1: a0c862e7c99d82e1d8d9083ca1fc2fb803f925c0
 SHA256: 67c03afc0a875f2eb3685e70b7fe54cb6dabdbd2813201693ddfef7ab88bcc67
+
+Package: com.ssxfien.limelightreborn
+Name: Limelight Reborn
+Version: 6.4
+Architecture: iphoneos-arm64
+Section: Themes
+Author: ssxfien
+Maintainer: ssxfien
+Installed-Size: 16793
+Description: A custom neon outline theme pack.
+Depiction: https://ssxfien.github.io/depictions/com.ssxfien.limelightreborn.html
+SileoDepiction: https://ssxfien.github.io/depictions/com.ssxfien.limelightreborn.json
+Filename: debs/com.ssxfien.limelightreborn_6.4_iphoneos-arm64.deb
+Size: 15844180
+MD5sum: 7e541e90e1bc3c0d05f87e8f957b068e
+SHA1: 1d66148bffb1b753d352339e63934a36bed35db5
+SHA256: ebf6c4cfffbd2a66d58dfcfeb33ae6f91f5c0998c180f51ad4dea926d776affe
